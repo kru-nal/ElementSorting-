@@ -10,6 +10,7 @@ public class ArrayListDemo {
 		list.add(101);
 		list.add("Patil");
 		list.add("pune");
+		list.add("Address");
 		
 		
 		System.out.println(list.get(2));
