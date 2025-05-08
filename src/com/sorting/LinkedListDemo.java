@@ -8,8 +8,9 @@ public static void main(String[] args) {
 	
 	list.add("India");
 	list.add("Russia");
-	list.add("Usa");
+	
 	list.add("Israel");
+	
 	for (String A:list) {
 		System.out.println(A);
 	}
